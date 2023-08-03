@@ -173,4 +173,4 @@ lp|above_65_range|counties|democrats|republicans|d_democrats           |d_republ
 ## **Conclusion**
 To be honest in most of the picked variables the information value is marked as moderate predictive power index (iv is between 0.1 - 0.3).
 It answers our main question perfectly.
-So does demography determine who people vote for? In short, yes. Demography can determine who counties vote for.
+So does demography determine who people vote for? In short, yes. Demography can determine who counties vote for...
